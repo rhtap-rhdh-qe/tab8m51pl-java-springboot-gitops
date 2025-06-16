@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tab8m51pl-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tab8m51pl-java-springboot-gitops
